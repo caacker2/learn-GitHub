@@ -5,3 +5,4 @@
 	-feet to inches
 	-furlongs to nanometers
 	-parsecs to light-years
+-sign up for a triathlon
